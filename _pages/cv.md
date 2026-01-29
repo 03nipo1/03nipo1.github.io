@@ -9,26 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
-## Contact
-**Your Name**  
+**Nikolaj Noer Poulsen**  
 Current position · PhD Fellow · Economics  
 Email: nipo@econ.au.dk  
 
-*Last updated: {{ "now" | date: "%B %d, %Y" }}*
-
 ## Research interests
-- Education Economics
-- Labor Economics
-- Economics of Inequality
+- Education Economics, Labor Economics, Economics of Inequality
 
 ## Professional experience
 - **2024–2025** Research Assistant, Aarhus University TrygFondens' Child Research Center  
 
 ## Education
 - **2025–2028** PhD Economics, Aarhus University  
-  - Supervisors: Professor Helena Skyt Nielsen and Professor Maria Humlum
+   Supervisors: Professor Helena Skyt Nielsen and Professor Maria Humlum
 - **2021–2024** MSc Economics, Aarhus University
-    - 2022 Exchange Programme UC3M Madrid
+- **2022**      Exchange Programme, UC3M Madrid
 - **2018–2021** BSc Economics, Aarhus University
 
 ## Publications
@@ -45,7 +40,7 @@ Email: nipo@econ.au.dk
 - "Childhood and Adolescent Interventions in a Danish Setting: A Meta-Analysis of Evidence from TrygFonden’s Centre for Child Research" (With Stine Nyhus Larsen, Katrine Tølbøll and Michael Rosholm)
 
 
-## Seminar, workshop, and conference presentations
+## Seminar / Conference presentations
 - **2025** QERD (Kolding, Denmark)
 - **2024** DARE (Vilnius, Lithunia)
 
@@ -53,4 +48,6 @@ Email: nipo@econ.au.dk
 - Advanced Econometrics (Aarhus University / Morten Ørregaard Nielsen, Phillip Heiler, Yana Petrova)
 - Education, Inequality, and Mobility (DGPE / Jesse Rothstein)
 - Human Capital and Wages (DGPE / Chris Taber)
+
+*Last updated: {{ "now" | date: "%B %d, %Y" }}*
 
