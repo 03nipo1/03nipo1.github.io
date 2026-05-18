@@ -43,7 +43,7 @@ Email: nipo@econ.au.dk
 - **2025** QERD (Kolding, Denmark), DGPE (Køge, Denmark)
 - **2024** DARE (Vilnius, Lithunia)
 
-- ## Honors 
+## Honors 
 - Fulbright Denmark Grant, 2027  
 Awarded in support of my upcoming research visit at Harvard University.
 
