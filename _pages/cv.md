@@ -37,15 +37,22 @@ Email: nipo@econ.au.dk
 - “The Causal Effects of Study Grants on Student Labor Supply, Academic Achievement, and Well-Being” (With Maria Humlum and Rune Vejlin)
 - “Living Together, Learning Together? Peer Effects in Student Housing" (With Maria Humlun and Helena Skyt Nielsen)
 - "Estimating the time from referral until in-home intervention and out-of-home placement in a timing-of-events framework" (With Michael Rosholm)
-- "Childhood and Adolescent Interventions in a Danish Setting: A Meta-Analysis of Evidence from TrygFonden’s Centre for Child Research" (With Stine Nyhus Larsen, Katrine Tølbøll and Michael Rosholm)
 
 
 ## Seminar / Conference presentations
-- **2025** QERD (Kolding, Denmark)
+- **2025** QERD (Kolding, Denmark) DGPE (Køge, Denmark)
 - **2024** DARE (Vilnius, Lithunia)
 
+- ## Honors 
+- Fulbright Denmark Grant, 2027  
+Awarded in support of my upcoming research visit at Harvard University.
+
+## Teaching
+- **2026** 2 Bachelor's Projects (Supervisor), Applied Economics (Undergraduate, TA)
+  
 ## Selected PhD courses
 - Advanced Econometrics (Aarhus University / Morten Ørregaard Nielsen, Phillip Heiler, Yana Petrova)
+- Advanced Microeconomics (Aarhus University / Nicola Maaser)
 - Education, Inequality, and Mobility (DGPE / Jesse Rothstein)
 - Human Capital and Wages (DGPE / Chris Taber)
 
