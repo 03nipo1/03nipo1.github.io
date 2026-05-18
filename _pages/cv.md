@@ -40,7 +40,7 @@ Email: nipo@econ.au.dk
 
 
 ## Seminar / Conference presentations
-- **2025** QERD (Kolding, Denmark) DGPE (Køge, Denmark)
+- **2025** QERD (Kolding, Denmark), DGPE (Køge, Denmark)
 - **2024** DARE (Vilnius, Lithunia)
 
 - ## Honors 
